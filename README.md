@@ -14,7 +14,4 @@ An AI-powered resume screening system that automatically extracts candidate info
 - 📊 Structured candidate information output
 - 📝 Recruiter-friendly candidate overview
 
-## 📸 Demo
-
-Add screenshots or a demo GIF here.
    
